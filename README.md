@@ -6,7 +6,7 @@ This console boilerplate is very much like rails and its boot process.
 * Bundle install
 
 ```
-$ bundle install --path lib
+$ bundle install --path vendor/bundle
 ```
 
 * Add your application files to the app folder.  Nested folders are also supported under app.
